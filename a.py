@@ -2,3 +2,4 @@
 
 
 x = 100
+print('good day')
