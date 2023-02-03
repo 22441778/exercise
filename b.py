@@ -1,1 +1,1 @@
-print('bad')
+print('bad day')
