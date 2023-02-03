@@ -1,1 +1,1 @@
-# file_a
+print('good')
