@@ -1,3 +1,1 @@
-b = 100
-
-c = b*100
+print('this is file_a')
